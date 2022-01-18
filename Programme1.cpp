@@ -79,31 +79,3 @@ int main() {
 	
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//	int chooseOperation(){
-//			int choice=0;
-//			cout <<"\nchoose operation number :\n1- Addition.\n2- Substraction.\n3- Multiplication.\n4- Devision."<<endl;
-//			cin >> choice;
-//			while (choice < 1 || choice > 4){
-//				cout << "Please enter number between 1 and 4 : ";
-//				cin >>choice;
-//			}
-//			return choice;
-//	}
