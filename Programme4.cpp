@@ -15,12 +15,6 @@ public:
 	string get_nom() {
 		return nom;
 	}
-	string get_prenom() {
-		return prenom;
-	}
-	int get_age() {
-		return age;
-	}
 	void print() {
 		cout << "nom : " << nom << ", prenom : " << prenom << ", age : " << age << endl;
 	}
